@@ -1,0 +1,7 @@
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Black Box Shop App.exe.config
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Black Box Shop App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Black Box Shop App.pdb
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Black Box Shop App.csproj.AssemblyReference.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Black Box Shop App.csproj.CoreCompileInputs.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Black Box Shop App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Black Box Shop App.pdb

@@ -1,0 +1,22 @@
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Assets\Amelie.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Assets\Error.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Assets\Success.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Assets\Warning.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Market X App.exe.config
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Market X App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\bin\Debug\Market X App.pdb
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\MarketX.csproj.AssemblyReference.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\MarketX.csproj.CoreCompileInputs.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Market X App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\Black Box Shop App\obj\Debug\Market X App.pdb
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Assets\Amelie.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Assets\Error.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Assets\Success.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Assets\Warning.wav
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Market X App.exe.config
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Market X App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\bin\Debug\Market X App.pdb
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\obj\Debug\MarketX.csproj.AssemblyReference.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\obj\Debug\MarketX.csproj.CoreCompileInputs.cache
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\obj\Debug\Market X App.exe
+D:\College Docs\Assignments\برمجة هدفية\زهرة\MarketX\obj\Debug\Market X App.pdb

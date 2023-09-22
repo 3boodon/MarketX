@@ -1,0 +1,20 @@
+﻿using System;
+
+namespace MarketX.Framework {
+    internal class Promise {
+
+        Action Resolve { get; set; }
+
+        public Promise(Action resolve) {
+            this.Resolve = resolve;
+            resolve();
+        }
+
+        public Promise then(Action resolve) {
+            return new Promise(resolve);
+        }
+
+
+
+    }
+}
